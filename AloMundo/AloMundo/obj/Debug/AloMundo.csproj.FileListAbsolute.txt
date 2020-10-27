@@ -1,0 +1,7 @@
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\AloMundo\AloMundo\bin\Debug\AloMundo.exe.config
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\AloMundo\AloMundo\bin\Debug\AloMundo.exe
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\AloMundo\AloMundo\bin\Debug\AloMundo.pdb
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\AloMundo\AloMundo\obj\Debug\AloMundo.csprojAssemblyReference.cache
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\AloMundo\AloMundo\obj\Debug\AloMundo.csproj.CoreCompileInputs.cache
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\AloMundo\AloMundo\obj\Debug\AloMundo.exe
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\AloMundo\AloMundo\obj\Debug\AloMundo.pdb
