@@ -1,0 +1,7 @@
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\Operacoes\Operacoes\bin\Debug\Operacoes.exe.config
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\Operacoes\Operacoes\bin\Debug\Operacoes.exe
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\Operacoes\Operacoes\bin\Debug\Operacoes.pdb
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\Operacoes\Operacoes\obj\Debug\Operacoes.csprojAssemblyReference.cache
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\Operacoes\Operacoes\obj\Debug\Operacoes.csproj.CoreCompileInputs.cache
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\Operacoes\Operacoes\obj\Debug\Operacoes.exe
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\Operacoes\Operacoes\obj\Debug\Operacoes.pdb

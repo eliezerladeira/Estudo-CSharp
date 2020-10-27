@@ -13,6 +13,12 @@ namespace Operacoes
             Console.WriteLine("Programa que realiza as operações matemáticas básicas");
             Console.WriteLine("5 + 10 = ");
             Console.WriteLine(5 + 10);
+            Console.WriteLine("5 - 10 = ");
+            Console.WriteLine(5 - 10);
+            Console.WriteLine("5 * 10 = ");
+            Console.WriteLine(5 * 10);
+            Console.WriteLine("5 / 10 = ");
+            Console.WriteLine(5 / 10);
             Console.ReadKey();
         }
     }
