@@ -1,0 +1,7 @@
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\SomaDoisNumeros\SomaDoisNumeros\bin\Debug\SomaDoisNumeros.exe.config
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\SomaDoisNumeros\SomaDoisNumeros\bin\Debug\SomaDoisNumeros.exe
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\SomaDoisNumeros\SomaDoisNumeros\bin\Debug\SomaDoisNumeros.pdb
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\SomaDoisNumeros\SomaDoisNumeros\obj\Debug\SomaDoisNumeros.csprojAssemblyReference.cache
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\SomaDoisNumeros\SomaDoisNumeros\obj\Debug\SomaDoisNumeros.csproj.CoreCompileInputs.cache
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\SomaDoisNumeros\SomaDoisNumeros\obj\Debug\SomaDoisNumeros.exe
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\SomaDoisNumeros\SomaDoisNumeros\obj\Debug\SomaDoisNumeros.pdb
