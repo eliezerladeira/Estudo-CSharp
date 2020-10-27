@@ -1,0 +1,7 @@
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\Dialogo\Dialogo\bin\Debug\Dialogo.exe.config
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\Dialogo\Dialogo\bin\Debug\Dialogo.exe
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\Dialogo\Dialogo\bin\Debug\Dialogo.pdb
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\Dialogo\Dialogo\obj\Debug\Dialogo.csprojAssemblyReference.cache
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\Dialogo\Dialogo\obj\Debug\Dialogo.csproj.CoreCompileInputs.cache
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\Dialogo\Dialogo\obj\Debug\Dialogo.exe
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\Dialogo\Dialogo\obj\Debug\Dialogo.pdb
