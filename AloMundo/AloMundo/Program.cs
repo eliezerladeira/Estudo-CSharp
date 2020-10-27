@@ -12,6 +12,11 @@ namespace AloMundo
         {
             //exibe mensagem na tela
             Console.WriteLine("Alô Mundo!");
+            Console.WriteLine("Segunda aula de C#");
+            // writeline quebra linha, write não quebra linha
+            Console.Write("Aula feita no dia 27/10/2020");
+            Console.Write(" - Segunda aula ");
+            Console.Write(2020);
             // aguarda o pressionamento de alguma tecla
             Console.ReadKey();
         }
