@@ -1,0 +1,6 @@
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\MaiorValor\MaiorValor\bin\Debug\MaiorValor.exe.config
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\MaiorValor\MaiorValor\bin\Debug\MaiorValor.exe
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\MaiorValor\MaiorValor\bin\Debug\MaiorValor.pdb
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\MaiorValor\MaiorValor\obj\Debug\MaiorValor.csproj.CoreCompileInputs.cache
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\MaiorValor\MaiorValor\obj\Debug\MaiorValor.exe
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\MaiorValor\MaiorValor\obj\Debug\MaiorValor.pdb
