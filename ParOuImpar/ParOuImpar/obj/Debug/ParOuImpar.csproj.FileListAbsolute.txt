@@ -1,0 +1,7 @@
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\ParOuImpar\ParOuImpar\obj\Debug\ParOuImpar.csprojAssemblyReference.cache
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\ParOuImpar\ParOuImpar\obj\Debug\ParOuImpar.csproj.CoreCompileInputs.cache
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\ParOuImpar\ParOuImpar\bin\Debug\ParOuImpar.exe.config
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\ParOuImpar\ParOuImpar\bin\Debug\ParOuImpar.exe
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\ParOuImpar\ParOuImpar\bin\Debug\ParOuImpar.pdb
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\ParOuImpar\ParOuImpar\obj\Debug\ParOuImpar.exe
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\ParOuImpar\ParOuImpar\obj\Debug\ParOuImpar.pdb
