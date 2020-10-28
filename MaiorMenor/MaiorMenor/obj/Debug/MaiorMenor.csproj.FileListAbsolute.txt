@@ -1,0 +1,7 @@
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\MaiorMenor\MaiorMenor\bin\Debug\MaiorMenor.exe.config
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\MaiorMenor\MaiorMenor\bin\Debug\MaiorMenor.exe
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\MaiorMenor\MaiorMenor\bin\Debug\MaiorMenor.pdb
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\MaiorMenor\MaiorMenor\obj\Debug\MaiorMenor.csprojAssemblyReference.cache
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\MaiorMenor\MaiorMenor\obj\Debug\MaiorMenor.csproj.CoreCompileInputs.cache
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\MaiorMenor\MaiorMenor\obj\Debug\MaiorMenor.exe
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\MaiorMenor\MaiorMenor\obj\Debug\MaiorMenor.pdb
