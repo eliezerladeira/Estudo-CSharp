@@ -1,0 +1,6 @@
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\InverteNumeros\InverteNumeros\bin\Debug\InverteNumeros.exe.config
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\InverteNumeros\InverteNumeros\bin\Debug\InverteNumeros.exe
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\InverteNumeros\InverteNumeros\bin\Debug\InverteNumeros.pdb
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\InverteNumeros\InverteNumeros\obj\Debug\InverteNumeros.csproj.CoreCompileInputs.cache
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\InverteNumeros\InverteNumeros\obj\Debug\InverteNumeros.exe
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\InverteNumeros\InverteNumeros\obj\Debug\InverteNumeros.pdb
