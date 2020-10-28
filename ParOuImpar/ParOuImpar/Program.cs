@@ -32,10 +32,14 @@ namespace ParOuImpar
                 }
                 Console.ReadKey();
 
-                Console.Write("Deseja verificar outro número? (s/n): ");
-                op = Console.ReadLine();
-                // converte o s para minúsculo
-                op = op.ToLower();
+                op = "X";
+
+                while (op != "s" && op != "n") {
+                    Console.Write("Deseja verificar outro número? (s/n): ");
+                    op = Console.ReadLine();
+                    // converte o s para minúsculo
+                    op = op.ToLower();
+                }
             }
         }
     }
