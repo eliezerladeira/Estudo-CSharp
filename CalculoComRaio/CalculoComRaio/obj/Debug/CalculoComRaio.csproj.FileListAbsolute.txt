@@ -1,0 +1,7 @@
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\CalculoComRaio\CalculoComRaio\bin\Debug\CalculoComRaio.exe.config
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\CalculoComRaio\CalculoComRaio\bin\Debug\CalculoComRaio.exe
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\CalculoComRaio\CalculoComRaio\bin\Debug\CalculoComRaio.pdb
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\CalculoComRaio\CalculoComRaio\obj\Debug\CalculoComRaio.csprojAssemblyReference.cache
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\CalculoComRaio\CalculoComRaio\obj\Debug\CalculoComRaio.csproj.CoreCompileInputs.cache
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\CalculoComRaio\CalculoComRaio\obj\Debug\CalculoComRaio.exe
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\CalculoComRaio\CalculoComRaio\obj\Debug\CalculoComRaio.pdb
