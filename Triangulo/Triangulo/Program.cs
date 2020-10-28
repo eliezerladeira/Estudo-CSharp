@@ -29,6 +29,7 @@ namespace Triangulo
             Console.Write("Informe o valor do lado 3 do triângulo: ");
             c = Convert.ToInt32(Console.ReadLine());
 
+            /*
             if (a < b + c)
             {
                 if (b < a + c)
@@ -38,6 +39,12 @@ namespace Triangulo
                         msg="Os valores informados representam os lados de um triângulo";
                     }
                 }
+            }
+            */
+
+            if ((a < b + c) && (b < a + c) && (c < a + b))
+            {
+                msg = "Os valores informados representam os lados de um triângulo";
             }
 
             Console.WriteLine(msg);
