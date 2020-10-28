@@ -11,22 +11,32 @@ namespace ParOuImpar
         static void Main(string[] args)
         {
             int n = 0, r = 0;
+            String op = "s";
 
-            Console.WriteLine("Verifica se o número informado é par ou ímpar");
-
-            Console.Write("Informe um número: ");
-            n = Convert.ToInt32(Console.ReadLine());
-            r = n % 2;
-
-            if (r == 0)
+            while (op == "s")
             {
-                Console.WriteLine("O número infomado é par.");
+                Console.Clear();
+                Console.WriteLine("Verifica se o número informado é par ou ímpar");
+
+                Console.Write("Informe um número: ");
+                n = Convert.ToInt32(Console.ReadLine());
+                r = n % 2;
+
+                if (r == 0)
+                {
+                    Console.WriteLine("O número infomado é par.");
+                }
+                else
+                {
+                    Console.WriteLine("O número infomado é ímpar.");
+                }
+                Console.ReadKey();
+
+                Console.Write("Deseja verificar outro número? (s/n): ");
+                op = Console.ReadLine();
+                // converte o s para minúsculo
+                op = op.ToLower();
             }
-            else
-            {
-                Console.WriteLine("O número infomado é ímpar.");
-            }
-            Console.ReadKey();
         }
     }
 }
