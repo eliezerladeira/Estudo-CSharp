@@ -14,7 +14,7 @@ namespace MaiorValor
              * Desenvolva um programa que determine o maior valor informado pelo usuário.
              * O usuário deverá informar 4 valores.
              * */
-            int n = 0, maior = 0;
+            int n = 0, maior = 0, i = 0;
 
             Console.WriteLine("Determina o maior valor");
 
@@ -22,6 +22,7 @@ namespace MaiorValor
             n = Convert.ToInt32(Console.ReadLine());
             maior = n;
 
+            /*
             Console.Write("Informe o 2 valor: ");
             n = Convert.ToInt32(Console.ReadLine());
 
@@ -44,6 +45,25 @@ namespace MaiorValor
             if (n > maior)
             {
                 maior = n;
+            }
+            */
+
+            /*
+             * Desenvolva um programa que determine o maior valor informado pelo usuário.
+             * O usuário deverá informar 10 valores.
+             * */
+            i = 1;
+            
+            while (i <= 9)
+            {
+                i = i + 1;
+                Console.Write("Informe o " + i + " valor: ");
+                n = Convert.ToInt32(Console.ReadLine());
+
+                if (n > maior)
+                {
+                    maior = n;
+                }
             }
 
             Console.WriteLine("O maior valor informado é: " + maior);
