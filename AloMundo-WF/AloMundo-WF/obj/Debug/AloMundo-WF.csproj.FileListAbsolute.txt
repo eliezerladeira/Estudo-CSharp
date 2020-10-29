@@ -1,0 +1,10 @@
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\AloMundo-WF\AloMundo-WF\bin\Debug\AloMundo-WF.exe.config
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\AloMundo-WF\AloMundo-WF\bin\Debug\AloMundo-WF.exe
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\AloMundo-WF\AloMundo-WF\bin\Debug\AloMundo-WF.pdb
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\AloMundo-WF\AloMundo-WF\obj\Debug\AloMundo-WF.csprojAssemblyReference.cache
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\AloMundo-WF\AloMundo-WF\obj\Debug\AloMundo_WF.Form1.resources
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\AloMundo-WF\AloMundo-WF\obj\Debug\AloMundo_WF.Properties.Resources.resources
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\AloMundo-WF\AloMundo-WF\obj\Debug\AloMundo-WF.csproj.GenerateResource.cache
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\AloMundo-WF\AloMundo-WF\obj\Debug\AloMundo-WF.csproj.CoreCompileInputs.cache
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\AloMundo-WF\AloMundo-WF\obj\Debug\AloMundo-WF.exe
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\AloMundo-WF\AloMundo-WF\obj\Debug\AloMundo-WF.pdb
