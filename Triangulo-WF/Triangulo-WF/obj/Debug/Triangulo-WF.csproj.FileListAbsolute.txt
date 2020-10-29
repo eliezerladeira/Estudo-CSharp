@@ -1,0 +1,10 @@
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\Triangulo-WF\Triangulo-WF\bin\Debug\Triangulo-WF.exe.config
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\Triangulo-WF\Triangulo-WF\bin\Debug\Triangulo-WF.exe
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\Triangulo-WF\Triangulo-WF\bin\Debug\Triangulo-WF.pdb
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\Triangulo-WF\Triangulo-WF\obj\Debug\Triangulo-WF.csprojAssemblyReference.cache
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\Triangulo-WF\Triangulo-WF\obj\Debug\Triangulo_WF.frmPrincipal.resources
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\Triangulo-WF\Triangulo-WF\obj\Debug\Triangulo_WF.Properties.Resources.resources
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\Triangulo-WF\Triangulo-WF\obj\Debug\Triangulo-WF.csproj.GenerateResource.cache
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\Triangulo-WF\Triangulo-WF\obj\Debug\Triangulo-WF.csproj.CoreCompileInputs.cache
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\Triangulo-WF\Triangulo-WF\obj\Debug\Triangulo-WF.exe
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\Triangulo-WF\Triangulo-WF\obj\Debug\Triangulo-WF.pdb
