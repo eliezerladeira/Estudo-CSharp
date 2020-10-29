@@ -1,0 +1,7 @@
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\PassagemPorValorReferencia\PassagemPorValorReferencia\bin\Debug\PassagemPorValorReferencia.exe.config
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\PassagemPorValorReferencia\PassagemPorValorReferencia\bin\Debug\PassagemPorValorReferencia.exe
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\PassagemPorValorReferencia\PassagemPorValorReferencia\bin\Debug\PassagemPorValorReferencia.pdb
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\PassagemPorValorReferencia\PassagemPorValorReferencia\obj\Debug\PassagemPorValorReferencia.csprojAssemblyReference.cache
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\PassagemPorValorReferencia\PassagemPorValorReferencia\obj\Debug\PassagemPorValorReferencia.csproj.CoreCompileInputs.cache
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\PassagemPorValorReferencia\PassagemPorValorReferencia\obj\Debug\PassagemPorValorReferencia.exe
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\PassagemPorValorReferencia\PassagemPorValorReferencia\obj\Debug\PassagemPorValorReferencia.pdb
