@@ -1,0 +1,23 @@
+C:\Users\eliez\OneDrive\Shared\Projetos\C#\Agenda\Agenda\Agenda\bin\Debug\Agenda.exe.config
+C:\Users\eliez\OneDrive\Shared\Projetos\C#\Agenda\Agenda\Agenda\bin\Debug\Agenda.exe
+C:\Users\eliez\OneDrive\Shared\Projetos\C#\Agenda\Agenda\Agenda\bin\Debug\Agenda.pdb
+C:\Users\eliez\OneDrive\Shared\Projetos\C#\Agenda\Agenda\Agenda\obj\Debug\Agenda.csprojAssemblyReference.cache
+C:\Users\eliez\OneDrive\Shared\Projetos\C#\Agenda\Agenda\Agenda\obj\Debug\Agenda.frmCadastroContato.resources
+C:\Users\eliez\OneDrive\Shared\Projetos\C#\Agenda\Agenda\Agenda\obj\Debug\Agenda.frmPrincipal.resources
+C:\Users\eliez\OneDrive\Shared\Projetos\C#\Agenda\Agenda\Agenda\obj\Debug\Agenda.Properties.Resources.resources
+C:\Users\eliez\OneDrive\Shared\Projetos\C#\Agenda\Agenda\Agenda\obj\Debug\Agenda.csproj.GenerateResource.cache
+C:\Users\eliez\OneDrive\Shared\Projetos\C#\Agenda\Agenda\Agenda\obj\Debug\Agenda.csproj.CoreCompileInputs.cache
+C:\Users\eliez\OneDrive\Shared\Projetos\C#\Agenda\Agenda\Agenda\obj\Debug\Agenda.exe
+C:\Users\eliez\OneDrive\Shared\Projetos\C#\Agenda\Agenda\Agenda\obj\Debug\Agenda.pdb
+C:\Users\eliez\OneDrive\Shared\Projetos\C#\Danilo Filitto\Agenda\Agenda\bin\Debug\Agenda.exe.config
+C:\Users\eliez\OneDrive\Shared\Projetos\C#\Danilo Filitto\Agenda\Agenda\bin\Debug\Agenda.exe
+C:\Users\eliez\OneDrive\Shared\Projetos\C#\Danilo Filitto\Agenda\Agenda\bin\Debug\Agenda.pdb
+C:\Users\eliez\OneDrive\Shared\Projetos\C#\Danilo Filitto\Agenda\Agenda\obj\Debug\Agenda.csprojAssemblyReference.cache
+C:\Users\eliez\OneDrive\Shared\Projetos\C#\Danilo Filitto\Agenda\Agenda\obj\Debug\Agenda.frmCadastroContato.resources
+C:\Users\eliez\OneDrive\Shared\Projetos\C#\Danilo Filitto\Agenda\Agenda\obj\Debug\Agenda.frmPrincipal.resources
+C:\Users\eliez\OneDrive\Shared\Projetos\C#\Danilo Filitto\Agenda\Agenda\obj\Debug\Agenda.Properties.Resources.resources
+C:\Users\eliez\OneDrive\Shared\Projetos\C#\Danilo Filitto\Agenda\Agenda\obj\Debug\Agenda.csproj.GenerateResource.cache
+C:\Users\eliez\OneDrive\Shared\Projetos\C#\Danilo Filitto\Agenda\Agenda\obj\Debug\Agenda.csproj.CoreCompileInputs.cache
+C:\Users\eliez\OneDrive\Shared\Projetos\C#\Danilo Filitto\Agenda\Agenda\obj\Debug\Agenda.exe
+C:\Users\eliez\OneDrive\Shared\Projetos\C#\Danilo Filitto\Agenda\Agenda\obj\Debug\Agenda.pdb
+C:\Users\eliez\OneDrive\Shared\Projetos\C#\Danilo Filitto\Agenda\Agenda\obj\Debug\Agenda.frmConsultaContato.resources
