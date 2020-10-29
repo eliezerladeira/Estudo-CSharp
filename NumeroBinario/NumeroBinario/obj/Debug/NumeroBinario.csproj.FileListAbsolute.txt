@@ -1,0 +1,7 @@
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\NumeroBinario\NumeroBinario\bin\Debug\NumeroBinario.exe.config
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\NumeroBinario\NumeroBinario\bin\Debug\NumeroBinario.exe
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\NumeroBinario\NumeroBinario\bin\Debug\NumeroBinario.pdb
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\NumeroBinario\NumeroBinario\obj\Debug\NumeroBinario.csprojAssemblyReference.cache
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\NumeroBinario\NumeroBinario\obj\Debug\NumeroBinario.csproj.CoreCompileInputs.cache
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\NumeroBinario\NumeroBinario\obj\Debug\NumeroBinario.exe
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\NumeroBinario\NumeroBinario\obj\Debug\NumeroBinario.pdb
