@@ -10,7 +10,8 @@ namespace CalculoComRaio
     {
         static Double calculaDiametro(Double r)
         {
-            return 2 * r;
+            Double retorno = 2 * r;
+            return retorno;
         }
 
         static Double calculaArea(Double r)
