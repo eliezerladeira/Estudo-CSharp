@@ -1,0 +1,10 @@
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\EscondeEsconde\EscondeEsconde\bin\Debug\EscondeEsconde.exe.config
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\EscondeEsconde\EscondeEsconde\bin\Debug\EscondeEsconde.exe
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\EscondeEsconde\EscondeEsconde\bin\Debug\EscondeEsconde.pdb
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\EscondeEsconde\EscondeEsconde\obj\Debug\EscondeEsconde.csprojAssemblyReference.cache
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\EscondeEsconde\EscondeEsconde\obj\Debug\EscondeEsconde.frmPrincipal.resources
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\EscondeEsconde\EscondeEsconde\obj\Debug\EscondeEsconde.Properties.Resources.resources
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\EscondeEsconde\EscondeEsconde\obj\Debug\EscondeEsconde.csproj.GenerateResource.cache
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\EscondeEsconde\EscondeEsconde\obj\Debug\EscondeEsconde.csproj.CoreCompileInputs.cache
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\EscondeEsconde\EscondeEsconde\obj\Debug\EscondeEsconde.exe
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\EscondeEsconde\EscondeEsconde\obj\Debug\EscondeEsconde.pdb
