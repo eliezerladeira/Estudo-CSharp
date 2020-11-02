@@ -1,0 +1,7 @@
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\recursividade\recursividade\bin\Debug\recursividade.exe.config
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\recursividade\recursividade\bin\Debug\recursividade.exe
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\recursividade\recursividade\bin\Debug\recursividade.pdb
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\recursividade\recursividade\obj\Debug\recursividade.csprojAssemblyReference.cache
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\recursividade\recursividade\obj\Debug\recursividade.csproj.CoreCompileInputs.cache
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\recursividade\recursividade\obj\Debug\recursividade.exe
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\recursividade\recursividade\obj\Debug\recursividade.pdb
