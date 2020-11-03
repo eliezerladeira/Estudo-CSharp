@@ -1,0 +1,7 @@
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\ArrayVetor\ArrayVetor\bin\Debug\ArrayVetor.exe.config
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\ArrayVetor\ArrayVetor\bin\Debug\ArrayVetor.exe
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\ArrayVetor\ArrayVetor\bin\Debug\ArrayVetor.pdb
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\ArrayVetor\ArrayVetor\obj\Debug\ArrayVetor.csprojAssemblyReference.cache
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\ArrayVetor\ArrayVetor\obj\Debug\ArrayVetor.csproj.CoreCompileInputs.cache
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\ArrayVetor\ArrayVetor\obj\Debug\ArrayVetor.exe
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\ArrayVetor\ArrayVetor\obj\Debug\ArrayVetor.pdb
