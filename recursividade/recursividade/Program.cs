@@ -8,6 +8,12 @@ namespace recursividade
 {
     class Program
     {
+        static int fatorial(int n)
+        {
+            if (n == 0) return 1;
+            else return n * fatorial(n - 1);
+        }
+
         static void ExibeMensagem(string msg, int n)
         {
             int i = 0;
@@ -40,6 +46,8 @@ namespace recursividade
         {
             int n;
             Console.WriteLine("6 x 3 = " + Multiplica(6, 3));
+            Console.WriteLine();
+            Console.WriteLine("Fatorial de 4 = " + fatorial(4));
             Console.ReadKey();
         }
     }
