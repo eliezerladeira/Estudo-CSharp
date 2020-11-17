@@ -1,0 +1,7 @@
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\ArrayInverte\ArrayInverte\bin\Debug\ArrayInverte.exe.config
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\ArrayInverte\ArrayInverte\bin\Debug\ArrayInverte.exe
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\ArrayInverte\ArrayInverte\bin\Debug\ArrayInverte.pdb
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\ArrayInverte\ArrayInverte\obj\Debug\ArrayInverte.csprojAssemblyReference.cache
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\ArrayInverte\ArrayInverte\obj\Debug\ArrayInverte.csproj.CoreCompileInputs.cache
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\ArrayInverte\ArrayInverte\obj\Debug\ArrayInverte.exe
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\ArrayInverte\ArrayInverte\obj\Debug\ArrayInverte.pdb
