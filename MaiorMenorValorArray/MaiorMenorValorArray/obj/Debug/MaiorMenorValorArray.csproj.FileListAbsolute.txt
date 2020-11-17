@@ -1,0 +1,7 @@
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\MaiorMenorValorArray\MaiorMenorValorArray\bin\Debug\MaiorMenorValorArray.exe.config
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\MaiorMenorValorArray\MaiorMenorValorArray\bin\Debug\MaiorMenorValorArray.exe
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\MaiorMenorValorArray\MaiorMenorValorArray\bin\Debug\MaiorMenorValorArray.pdb
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\MaiorMenorValorArray\MaiorMenorValorArray\obj\Debug\MaiorMenorValorArray.csprojAssemblyReference.cache
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\MaiorMenorValorArray\MaiorMenorValorArray\obj\Debug\MaiorMenorValorArray.csproj.CoreCompileInputs.cache
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\MaiorMenorValorArray\MaiorMenorValorArray\obj\Debug\MaiorMenorValorArray.exe
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\MaiorMenorValorArray\MaiorMenorValorArray\obj\Debug\MaiorMenorValorArray.pdb
