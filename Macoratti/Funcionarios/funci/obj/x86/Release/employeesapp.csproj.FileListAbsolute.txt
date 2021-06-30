@@ -1,0 +1,9 @@
+C:\Users\Bisan\Documents\Visual Studio 2010\Projects\employeesapp\employeesapp\bin\Release\employeesapp.exe.config
+C:\Users\Bisan\Documents\Visual Studio 2010\Projects\employeesapp\employeesapp\bin\Release\employeesapp.exe
+C:\Users\Bisan\Documents\Visual Studio 2010\Projects\employeesapp\employeesapp\bin\Release\employeesapp.pdb
+C:\Users\Bisan\Documents\Visual Studio 2010\Projects\employeesapp\employeesapp\obj\x86\Release\employeesapp.Form1.resources
+C:\Users\Bisan\Documents\Visual Studio 2010\Projects\employeesapp\employeesapp\obj\x86\Release\employeesapp.Properties.Resources.resources
+C:\Users\Bisan\Documents\Visual Studio 2010\Projects\employeesapp\employeesapp\obj\x86\Release\employeesapp.csproj.GenerateResource.Cache
+C:\Users\Bisan\Documents\Visual Studio 2010\Projects\employeesapp\employeesapp\obj\x86\Release\employeesapp.exe
+C:\Users\Bisan\Documents\Visual Studio 2010\Projects\employeesapp\employeesapp\obj\x86\Release\employeesapp.pdb
+C:\Users\Bisan\Documents\Visual Studio 2010\Projects\employeesapp\employeesapp\obj\x86\Release\employeesapp.csprojResolveAssemblyReference.cache

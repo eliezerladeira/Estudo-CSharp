@@ -1,0 +1,7 @@
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\TabelaDePontos\TabelaDePontos\bin\Debug\TabelaDePontos.exe.config
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\TabelaDePontos\TabelaDePontos\bin\Debug\TabelaDePontos.exe
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\TabelaDePontos\TabelaDePontos\bin\Debug\TabelaDePontos.pdb
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\TabelaDePontos\TabelaDePontos\obj\Debug\TabelaDePontos.csprojAssemblyReference.cache
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\TabelaDePontos\TabelaDePontos\obj\Debug\TabelaDePontos.csproj.CoreCompileInputs.cache
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\TabelaDePontos\TabelaDePontos\obj\Debug\TabelaDePontos.exe
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\TabelaDePontos\TabelaDePontos\obj\Debug\TabelaDePontos.pdb

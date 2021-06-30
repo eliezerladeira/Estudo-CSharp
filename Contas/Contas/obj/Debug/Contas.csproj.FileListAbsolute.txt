@@ -1,0 +1,17 @@
+C:\Users\Eliezer\OneDrive\Shared\_Notebook\Projetos\Contas\Contas\bin\Debug\Contas.exe.config
+C:\Users\Eliezer\OneDrive\Shared\_Notebook\Projetos\Contas\Contas\bin\Debug\Contas.exe
+C:\Users\Eliezer\OneDrive\Shared\_Notebook\Projetos\Contas\Contas\bin\Debug\Contas.pdb
+C:\Users\Eliezer\OneDrive\Shared\_Notebook\Projetos\Contas\Contas\obj\Debug\Contas.csprojAssemblyReference.cache
+C:\Users\Eliezer\OneDrive\Shared\_Notebook\Projetos\Contas\Contas\obj\Debug\Contas.frmEmpresas.resources
+C:\Users\Eliezer\OneDrive\Shared\_Notebook\Projetos\Contas\Contas\obj\Debug\Contas.frmMenu.resources
+C:\Users\Eliezer\OneDrive\Shared\_Notebook\Projetos\Contas\Contas\obj\Debug\Contas.Properties.Resources.resources
+C:\Users\Eliezer\OneDrive\Shared\_Notebook\Projetos\Contas\Contas\obj\Debug\Contas.frmUsuarios.resources
+C:\Users\Eliezer\OneDrive\Shared\_Notebook\Projetos\Contas\Contas\obj\Debug\Contas.csproj.GenerateResource.cache
+C:\Users\Eliezer\OneDrive\Shared\_Notebook\Projetos\Contas\Contas\obj\Debug\Contas.csproj.CoreCompileInputs.cache
+C:\Users\Eliezer\OneDrive\Shared\_Notebook\Projetos\Contas\Contas\obj\Debug\Contas.exe
+C:\Users\Eliezer\OneDrive\Shared\_Notebook\Projetos\Contas\Contas\obj\Debug\Contas.pdb
+C:\Users\Eliezer\OneDrive\Shared\_Notebook\Projetos\Contas\Contas\bin\Debug\Google.Protobuf.dll
+C:\Users\Eliezer\OneDrive\Shared\_Notebook\Projetos\Contas\Contas\bin\Debug\MySql.Data.dll
+C:\Users\Eliezer\OneDrive\Shared\_Notebook\Projetos\Contas\Contas\bin\Debug\Google.Protobuf.xml
+C:\Users\Eliezer\OneDrive\Shared\_Notebook\Projetos\Contas\Contas\bin\Debug\MySql.Data.xml
+C:\Users\Eliezer\OneDrive\Shared\_Notebook\Projetos\Contas\Contas\obj\Debug\Contas.csproj.CopyComplete

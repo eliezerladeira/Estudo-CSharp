@@ -1,0 +1,10 @@
+C:\Users\Eliezer\OneDrive\Shared\_Notebook\Projetos\Library\WindowsFormsApp1\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\Eliezer\OneDrive\Shared\_Notebook\Projetos\Library\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Menu.resources
+C:\Users\Eliezer\OneDrive\Shared\_Notebook\Projetos\Library\WindowsFormsApp1\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\Eliezer\OneDrive\Shared\_Notebook\Projetos\Library\WindowsFormsApp1\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\Eliezer\OneDrive\Shared\_Notebook\Projetos\Library\WindowsFormsApp1\bin\Debug\Library.exe.config
+C:\Users\Eliezer\OneDrive\Shared\_Notebook\Projetos\Library\WindowsFormsApp1\bin\Debug\Library.exe
+C:\Users\Eliezer\OneDrive\Shared\_Notebook\Projetos\Library\WindowsFormsApp1\bin\Debug\Library.pdb
+C:\Users\Eliezer\OneDrive\Shared\_Notebook\Projetos\Library\WindowsFormsApp1\obj\Debug\Library.Properties.Resources.resources
+C:\Users\Eliezer\OneDrive\Shared\_Notebook\Projetos\Library\WindowsFormsApp1\obj\Debug\Library.exe
+C:\Users\Eliezer\OneDrive\Shared\_Notebook\Projetos\Library\WindowsFormsApp1\obj\Debug\Library.pdb

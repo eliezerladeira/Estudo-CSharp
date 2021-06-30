@@ -1,0 +1,18 @@
+C:\Users\Bisan\documents\visual studio 2010\Projects\employeesapp\employeesapp\bin\Debug\employeesapp.exe
+C:\Users\Bisan\documents\visual studio 2010\Projects\employeesapp\employeesapp\bin\Debug\employeesapp.pdb
+C:\Users\Bisan\documents\visual studio 2010\Projects\employeesapp\employeesapp\obj\x86\Debug\employeesapp.Form1.resources
+C:\Users\Bisan\documents\visual studio 2010\Projects\employeesapp\employeesapp\obj\x86\Debug\employeesapp.Properties.Resources.resources
+C:\Users\Bisan\documents\visual studio 2010\Projects\employeesapp\employeesapp\obj\x86\Debug\employeesapp.csproj.GenerateResource.Cache
+C:\Users\Bisan\documents\visual studio 2010\Projects\employeesapp\employeesapp\obj\x86\Debug\employeesapp.exe
+C:\Users\Bisan\documents\visual studio 2010\Projects\employeesapp\employeesapp\obj\x86\Debug\employeesapp.pdb
+C:\Users\Bisan\documents\visual studio 2010\Projects\employeesapp\employeesapp\bin\Debug\employeesapp.exe.config
+C:\Users\Bisan\Documents\Visual Studio 2010\Projects\employeesapp\employeesapp\obj\x86\Debug\employeesapp.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\employeesapp\employeesapp\employeesapp\bin\Debug\employeesapp.exe.config
+C:\Users\user\Downloads\employeesapp\employeesapp\employeesapp\obj\x86\Debug\employeesapp.exe
+C:\Users\user\Downloads\employeesapp\employeesapp\employeesapp\obj\x86\Debug\employeesapp.pdb
+C:\Users\user\Downloads\employeesapp\employeesapp\employeesapp\bin\Debug\employeesapp.exe
+C:\Users\user\Downloads\employeesapp\employeesapp\employeesapp\bin\Debug\employeesapp.pdb
+C:\Users\user\Downloads\employeesapp\employeesapp\employeesapp\obj\x86\Debug\employeesapp.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\employeesapp\employeesapp\employeesapp\obj\x86\Debug\employeesapp.Form1.resources
+C:\Users\user\Downloads\employeesapp\employeesapp\employeesapp\obj\x86\Debug\employeesapp.Properties.Resources.resources
+C:\Users\user\Downloads\employeesapp\employeesapp\employeesapp\obj\x86\Debug\employeesapp.csproj.GenerateResource.Cache

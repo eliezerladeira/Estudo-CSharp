@@ -1,0 +1,23 @@
+F:\Microsoft Visual CSharp Database Development\InstrumentosMusicais\InstrumentosMusicais\bin\Debug\InstrumentosMusicais.exe
+F:\Microsoft Visual CSharp Database Development\InstrumentosMusicais\InstrumentosMusicais\bin\Debug\InstrumentosMusicais.pdb
+F:\Microsoft Visual CSharp Database Development\InstrumentosMusicais\InstrumentosMusicais\obj\Debug\ResolveAssemblyReference.cache
+F:\Microsoft Visual CSharp Database Development\InstrumentosMusicais\InstrumentosMusicais\obj\Debug\MusicalInstrumentStore2.CategoryEditor.resources
+F:\Microsoft Visual CSharp Database Development\InstrumentosMusicais\InstrumentosMusicais\obj\Debug\MusicalInstrumentStore2.ItemEditor.resources
+F:\Microsoft Visual CSharp Database Development\InstrumentosMusicais\InstrumentosMusicais\obj\Debug\MusicalInstrumentStore2.MusicStore.resources
+F:\Microsoft Visual CSharp Database Development\InstrumentosMusicais\InstrumentosMusicais\obj\Debug\InstrumentosMusicais.Properties.Resources.resources
+F:\Microsoft Visual CSharp Database Development\InstrumentosMusicais\InstrumentosMusicais\obj\Debug\MusicalInstrumentStore2.TypeEditor.resources
+F:\Microsoft Visual CSharp Database Development\InstrumentosMusicais\InstrumentosMusicais\obj\Debug\ResGen.read.1.tlog
+F:\Microsoft Visual CSharp Database Development\InstrumentosMusicais\InstrumentosMusicais\obj\Debug\ResGen.write.1.tlog
+F:\Microsoft Visual CSharp Database Development\InstrumentosMusicais\InstrumentosMusicais\obj\Debug\InstrumentosMusicais.exe
+F:\Microsoft Visual CSharp Database Development\InstrumentosMusicais\InstrumentosMusicais\obj\Debug\InstrumentosMusicais.pdb
+C:\_C#\InstrumentosMusicais\InstrumentosMusicais\obj\Debug\InstrumentosMusicais.exe
+C:\_C#\InstrumentosMusicais\InstrumentosMusicais\obj\Debug\InstrumentosMusicais.pdb
+C:\_C#\InstrumentosMusicais\InstrumentosMusicais\obj\Debug\MusicalInstrumentStore2.CategoryEditor.resources
+C:\_C#\InstrumentosMusicais\InstrumentosMusicais\obj\Debug\MusicalInstrumentStore2.ItemEditor.resources
+C:\_C#\InstrumentosMusicais\InstrumentosMusicais\obj\Debug\InstrumentosMusicais.Properties.Resources.resources
+C:\_C#\InstrumentosMusicais\InstrumentosMusicais\obj\Debug\MusicalInstrumentStore2.TypeEditor.resources
+C:\_C#\InstrumentosMusicais\InstrumentosMusicais\obj\Debug\Instrumentos_Musicais.csproj.GenerateResource.Cache
+C:\_C#\InstrumentosMusicais\InstrumentosMusicais\bin\Debug\InstrumentosMusicais.exe
+C:\_C#\InstrumentosMusicais\InstrumentosMusicais\bin\Debug\InstrumentosMusicais.pdb
+C:\_C#\InstrumentosMusicais\InstrumentosMusicais\obj\Debug\MusicalInstrumentStore2.LojaMusical.resources
+C:\_C#\InstrumentosMusicais\InstrumentosMusicais\obj\Debug\Instrumentos_Musicais.csprojResolveAssemblyReference.cache

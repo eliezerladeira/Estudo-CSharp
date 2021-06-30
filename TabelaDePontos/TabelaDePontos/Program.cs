@@ -18,6 +18,28 @@ namespace TabelaDePontos
             }
         }
 
+        static void RemoveTimes(int[] codigos, String[] nomes, int[] pontos, ref int tl)
+        {
+            Console.WriteLine("----Remove time----");
+            Console.Write("Código do time: ");
+            
+            int cod = Convert.ToInt32(Console.ReadLine());
+            int p = LocalizaTimeCodigo(codigos, nomes, pontos, tl);
+
+            //p é a posição do time no vetot
+            if (p >= 0)
+            {
+                for (int i = p; i < tl-1; i++)
+                {
+                    //reposiciona os elementos um indice abaixo, pois um valor de indice foi apagado
+                    codigos[i] = codigos[i + 1];
+                    nomes[i] = nomes[i + 1];
+                    pontos[i] = pontos[i + 1];
+                }
+                tl--;
+            }
+        }
+
         static void InsereTimes(int[] codigos, String[] nomes, int[] pontos, ref int tl, ref int lastcod)
         {
             Console.WriteLine("----Cadastro de time----");

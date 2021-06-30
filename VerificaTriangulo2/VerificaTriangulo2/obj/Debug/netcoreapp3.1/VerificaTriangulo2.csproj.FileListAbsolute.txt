@@ -1,0 +1,11 @@
+C:\Users\eliez\OneDrive\Shared\Projetos\C#\VerificaTriangulo2\VerificaTriangulo2\bin\Debug\netcoreapp3.1\VerificaTriangulo2.exe
+C:\Users\eliez\OneDrive\Shared\Projetos\C#\VerificaTriangulo2\VerificaTriangulo2\bin\Debug\netcoreapp3.1\VerificaTriangulo2.deps.json
+C:\Users\eliez\OneDrive\Shared\Projetos\C#\VerificaTriangulo2\VerificaTriangulo2\bin\Debug\netcoreapp3.1\VerificaTriangulo2.runtimeconfig.json
+C:\Users\eliez\OneDrive\Shared\Projetos\C#\VerificaTriangulo2\VerificaTriangulo2\bin\Debug\netcoreapp3.1\VerificaTriangulo2.runtimeconfig.dev.json
+C:\Users\eliez\OneDrive\Shared\Projetos\C#\VerificaTriangulo2\VerificaTriangulo2\bin\Debug\netcoreapp3.1\VerificaTriangulo2.dll
+C:\Users\eliez\OneDrive\Shared\Projetos\C#\VerificaTriangulo2\VerificaTriangulo2\bin\Debug\netcoreapp3.1\VerificaTriangulo2.pdb
+C:\Users\eliez\OneDrive\Shared\Projetos\C#\VerificaTriangulo2\VerificaTriangulo2\obj\Debug\netcoreapp3.1\VerificaTriangulo2.csprojAssemblyReference.cache
+C:\Users\eliez\OneDrive\Shared\Projetos\C#\VerificaTriangulo2\VerificaTriangulo2\obj\Debug\netcoreapp3.1\VerificaTriangulo2.AssemblyInfoInputs.cache
+C:\Users\eliez\OneDrive\Shared\Projetos\C#\VerificaTriangulo2\VerificaTriangulo2\obj\Debug\netcoreapp3.1\VerificaTriangulo2.AssemblyInfo.cs
+C:\Users\eliez\OneDrive\Shared\Projetos\C#\VerificaTriangulo2\VerificaTriangulo2\obj\Debug\netcoreapp3.1\VerificaTriangulo2.dll
+C:\Users\eliez\OneDrive\Shared\Projetos\C#\VerificaTriangulo2\VerificaTriangulo2\obj\Debug\netcoreapp3.1\VerificaTriangulo2.pdb

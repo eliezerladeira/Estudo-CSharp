@@ -1,0 +1,10 @@
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\Como Programar\ASimpleProject\ASimpleProject\bin\Debug\ASimpleProject.exe.config
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\Como Programar\ASimpleProject\ASimpleProject\bin\Debug\ASimpleProject.exe
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\Como Programar\ASimpleProject\ASimpleProject\bin\Debug\ASimpleProject.pdb
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\Como Programar\ASimpleProject\ASimpleProject\obj\Debug\ASimpleProject.csprojAssemblyReference.cache
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\Como Programar\ASimpleProject\ASimpleProject\obj\Debug\ASimpleProject.Form1.resources
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\Como Programar\ASimpleProject\ASimpleProject\obj\Debug\ASimpleProject.Properties.Resources.resources
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\Como Programar\ASimpleProject\ASimpleProject\obj\Debug\ASimpleProject.csproj.GenerateResource.cache
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\Como Programar\ASimpleProject\ASimpleProject\obj\Debug\ASimpleProject.csproj.CoreCompileInputs.cache
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\Como Programar\ASimpleProject\ASimpleProject\obj\Debug\ASimpleProject.exe
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\Como Programar\ASimpleProject\ASimpleProject\obj\Debug\ASimpleProject.pdb

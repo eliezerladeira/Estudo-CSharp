@@ -1,0 +1,11 @@
+C:\Users\eliez\OneDrive\Shared\Projetos\C#\Ordenacao\Ordenacao\bin\Debug\netcoreapp3.1\Ordenacao.exe
+C:\Users\eliez\OneDrive\Shared\Projetos\C#\Ordenacao\Ordenacao\bin\Debug\netcoreapp3.1\Ordenacao.deps.json
+C:\Users\eliez\OneDrive\Shared\Projetos\C#\Ordenacao\Ordenacao\bin\Debug\netcoreapp3.1\Ordenacao.runtimeconfig.json
+C:\Users\eliez\OneDrive\Shared\Projetos\C#\Ordenacao\Ordenacao\bin\Debug\netcoreapp3.1\Ordenacao.runtimeconfig.dev.json
+C:\Users\eliez\OneDrive\Shared\Projetos\C#\Ordenacao\Ordenacao\bin\Debug\netcoreapp3.1\Ordenacao.dll
+C:\Users\eliez\OneDrive\Shared\Projetos\C#\Ordenacao\Ordenacao\bin\Debug\netcoreapp3.1\Ordenacao.pdb
+C:\Users\eliez\OneDrive\Shared\Projetos\C#\Ordenacao\Ordenacao\obj\Debug\netcoreapp3.1\Ordenacao.csprojAssemblyReference.cache
+C:\Users\eliez\OneDrive\Shared\Projetos\C#\Ordenacao\Ordenacao\obj\Debug\netcoreapp3.1\Ordenacao.AssemblyInfoInputs.cache
+C:\Users\eliez\OneDrive\Shared\Projetos\C#\Ordenacao\Ordenacao\obj\Debug\netcoreapp3.1\Ordenacao.AssemblyInfo.cs
+C:\Users\eliez\OneDrive\Shared\Projetos\C#\Ordenacao\Ordenacao\obj\Debug\netcoreapp3.1\Ordenacao.dll
+C:\Users\eliez\OneDrive\Shared\Projetos\C#\Ordenacao\Ordenacao\obj\Debug\netcoreapp3.1\Ordenacao.pdb

@@ -1,0 +1,7 @@
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\Como Programar\Welcome4\Welcome4\bin\Debug\Welcome4.exe.config
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\Como Programar\Welcome4\Welcome4\bin\Debug\Welcome4.exe
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\Como Programar\Welcome4\Welcome4\bin\Debug\Welcome4.pdb
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\Como Programar\Welcome4\Welcome4\obj\Debug\Welcome4.csprojAssemblyReference.cache
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\Como Programar\Welcome4\Welcome4\obj\Debug\Welcome4.csproj.CoreCompileInputs.cache
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\Como Programar\Welcome4\Welcome4\obj\Debug\Welcome4.exe
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\Como Programar\Welcome4\Welcome4\obj\Debug\Welcome4.pdb
