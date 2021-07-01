@@ -1,0 +1,10 @@
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019 Programação Orientada a Objetos + Projetos\Estudo\3_Exercicio2\3_Exercicio2\bin\Debug\netcoreapp2.1\3_Exercicio2.deps.json
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019 Programação Orientada a Objetos + Projetos\Estudo\3_Exercicio2\3_Exercicio2\bin\Debug\netcoreapp2.1\3_Exercicio2.runtimeconfig.json
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019 Programação Orientada a Objetos + Projetos\Estudo\3_Exercicio2\3_Exercicio2\bin\Debug\netcoreapp2.1\3_Exercicio2.runtimeconfig.dev.json
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019 Programação Orientada a Objetos + Projetos\Estudo\3_Exercicio2\3_Exercicio2\bin\Debug\netcoreapp2.1\3_Exercicio2.dll
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019 Programação Orientada a Objetos + Projetos\Estudo\3_Exercicio2\3_Exercicio2\bin\Debug\netcoreapp2.1\3_Exercicio2.pdb
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019 Programação Orientada a Objetos + Projetos\Estudo\3_Exercicio2\3_Exercicio2\obj\Debug\netcoreapp2.1\3_Exercicio2.csproj.CoreCompileInputs.cache
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019 Programação Orientada a Objetos + Projetos\Estudo\3_Exercicio2\3_Exercicio2\obj\Debug\netcoreapp2.1\3_Exercicio2.AssemblyInfoInputs.cache
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019 Programação Orientada a Objetos + Projetos\Estudo\3_Exercicio2\3_Exercicio2\obj\Debug\netcoreapp2.1\3_Exercicio2.AssemblyInfo.cs
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019 Programação Orientada a Objetos + Projetos\Estudo\3_Exercicio2\3_Exercicio2\obj\Debug\netcoreapp2.1\3_Exercicio2.dll
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019 Programação Orientada a Objetos + Projetos\Estudo\3_Exercicio2\3_Exercicio2\obj\Debug\netcoreapp2.1\3_Exercicio2.pdb

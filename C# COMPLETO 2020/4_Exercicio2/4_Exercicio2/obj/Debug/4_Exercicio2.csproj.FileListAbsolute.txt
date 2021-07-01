@@ -1,0 +1,6 @@
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019\Estudo\4_Exercicio2\4_Exercicio2\bin\Debug\4_Exercicio2.exe.config
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019\Estudo\4_Exercicio2\4_Exercicio2\bin\Debug\4_Exercicio2.exe
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019\Estudo\4_Exercicio2\4_Exercicio2\bin\Debug\4_Exercicio2.pdb
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019\Estudo\4_Exercicio2\4_Exercicio2\obj\Debug\4_Exercicio2.csproj.CoreCompileInputs.cache
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019\Estudo\4_Exercicio2\4_Exercicio2\obj\Debug\4_Exercicio2.exe
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019\Estudo\4_Exercicio2\4_Exercicio2\obj\Debug\4_Exercicio2.pdb

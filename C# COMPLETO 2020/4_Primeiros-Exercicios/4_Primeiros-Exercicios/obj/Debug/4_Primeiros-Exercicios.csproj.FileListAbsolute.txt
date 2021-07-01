@@ -1,0 +1,7 @@
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019\Estudo\4_Primeiros-Exercicios\4_Primeiros-Exercicios\obj\Debug\4_Primeiros-Exercicios.csprojAssemblyReference.cache
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019\Estudo\4_Primeiros-Exercicios\4_Primeiros-Exercicios\obj\Debug\4_Primeiros-Exercicios.csproj.CoreCompileInputs.cache
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019\Estudo\4_Primeiros-Exercicios\4_Primeiros-Exercicios\bin\Debug\4_Primeiros-Exercicios.exe.config
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019\Estudo\4_Primeiros-Exercicios\4_Primeiros-Exercicios\bin\Debug\4_Primeiros-Exercicios.exe
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019\Estudo\4_Primeiros-Exercicios\4_Primeiros-Exercicios\bin\Debug\4_Primeiros-Exercicios.pdb
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019\Estudo\4_Primeiros-Exercicios\4_Primeiros-Exercicios\obj\Debug\4_Primeiros-Exercicios.exe
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019\Estudo\4_Primeiros-Exercicios\4_Primeiros-Exercicios\obj\Debug\4_Primeiros-Exercicios.pdb

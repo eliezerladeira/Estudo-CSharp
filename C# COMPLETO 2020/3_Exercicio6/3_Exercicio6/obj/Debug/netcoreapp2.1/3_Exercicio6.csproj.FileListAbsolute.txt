@@ -1,0 +1,10 @@
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019 Programação Orientada a Objetos + Projetos\Estudo\3_Exercicio6\3_Exercicio6\bin\Debug\netcoreapp2.1\3_Exercicio6.deps.json
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019 Programação Orientada a Objetos + Projetos\Estudo\3_Exercicio6\3_Exercicio6\bin\Debug\netcoreapp2.1\3_Exercicio6.runtimeconfig.json
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019 Programação Orientada a Objetos + Projetos\Estudo\3_Exercicio6\3_Exercicio6\bin\Debug\netcoreapp2.1\3_Exercicio6.runtimeconfig.dev.json
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019 Programação Orientada a Objetos + Projetos\Estudo\3_Exercicio6\3_Exercicio6\bin\Debug\netcoreapp2.1\3_Exercicio6.dll
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019 Programação Orientada a Objetos + Projetos\Estudo\3_Exercicio6\3_Exercicio6\bin\Debug\netcoreapp2.1\3_Exercicio6.pdb
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019 Programação Orientada a Objetos + Projetos\Estudo\3_Exercicio6\3_Exercicio6\obj\Debug\netcoreapp2.1\3_Exercicio6.csproj.CoreCompileInputs.cache
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019 Programação Orientada a Objetos + Projetos\Estudo\3_Exercicio6\3_Exercicio6\obj\Debug\netcoreapp2.1\3_Exercicio6.AssemblyInfoInputs.cache
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019 Programação Orientada a Objetos + Projetos\Estudo\3_Exercicio6\3_Exercicio6\obj\Debug\netcoreapp2.1\3_Exercicio6.AssemblyInfo.cs
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019 Programação Orientada a Objetos + Projetos\Estudo\3_Exercicio6\3_Exercicio6\obj\Debug\netcoreapp2.1\3_Exercicio6.dll
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019 Programação Orientada a Objetos + Projetos\Estudo\3_Exercicio6\3_Exercicio6\obj\Debug\netcoreapp2.1\3_Exercicio6.pdb

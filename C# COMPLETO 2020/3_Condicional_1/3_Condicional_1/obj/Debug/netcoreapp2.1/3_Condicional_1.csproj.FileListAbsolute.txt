@@ -1,0 +1,11 @@
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019 Programação Orientada a Objetos + Projetos\Estudo\3_Condicional_1\3_Condicional_1\bin\Debug\netcoreapp2.1\3_Condicional_1.deps.json
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019 Programação Orientada a Objetos + Projetos\Estudo\3_Condicional_1\3_Condicional_1\bin\Debug\netcoreapp2.1\3_Condicional_1.runtimeconfig.json
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019 Programação Orientada a Objetos + Projetos\Estudo\3_Condicional_1\3_Condicional_1\bin\Debug\netcoreapp2.1\3_Condicional_1.runtimeconfig.dev.json
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019 Programação Orientada a Objetos + Projetos\Estudo\3_Condicional_1\3_Condicional_1\bin\Debug\netcoreapp2.1\3_Condicional_1.dll
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019 Programação Orientada a Objetos + Projetos\Estudo\3_Condicional_1\3_Condicional_1\bin\Debug\netcoreapp2.1\3_Condicional_1.pdb
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019 Programação Orientada a Objetos + Projetos\Estudo\3_Condicional_1\3_Condicional_1\obj\Debug\netcoreapp2.1\3_Condicional_1.csprojAssemblyReference.cache
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019 Programação Orientada a Objetos + Projetos\Estudo\3_Condicional_1\3_Condicional_1\obj\Debug\netcoreapp2.1\3_Condicional_1.csproj.CoreCompileInputs.cache
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019 Programação Orientada a Objetos + Projetos\Estudo\3_Condicional_1\3_Condicional_1\obj\Debug\netcoreapp2.1\3_Condicional_1.AssemblyInfoInputs.cache
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019 Programação Orientada a Objetos + Projetos\Estudo\3_Condicional_1\3_Condicional_1\obj\Debug\netcoreapp2.1\3_Condicional_1.AssemblyInfo.cs
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019 Programação Orientada a Objetos + Projetos\Estudo\3_Condicional_1\3_Condicional_1\obj\Debug\netcoreapp2.1\3_Condicional_1.dll
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019 Programação Orientada a Objetos + Projetos\Estudo\3_Condicional_1\3_Condicional_1\obj\Debug\netcoreapp2.1\3_Condicional_1.pdb

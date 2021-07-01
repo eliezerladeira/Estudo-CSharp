@@ -1,0 +1,11 @@
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019\Estudo\4_Estrutura_For\4_Estrutura_For\bin\Debug\netcoreapp2.1\4_Estrutura_For.deps.json
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019\Estudo\4_Estrutura_For\4_Estrutura_For\bin\Debug\netcoreapp2.1\4_Estrutura_For.runtimeconfig.json
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019\Estudo\4_Estrutura_For\4_Estrutura_For\bin\Debug\netcoreapp2.1\4_Estrutura_For.runtimeconfig.dev.json
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019\Estudo\4_Estrutura_For\4_Estrutura_For\bin\Debug\netcoreapp2.1\4_Estrutura_For.dll
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019\Estudo\4_Estrutura_For\4_Estrutura_For\bin\Debug\netcoreapp2.1\4_Estrutura_For.pdb
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019\Estudo\4_Estrutura_For\4_Estrutura_For\obj\Debug\netcoreapp2.1\4_Estrutura_For.csprojAssemblyReference.cache
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019\Estudo\4_Estrutura_For\4_Estrutura_For\obj\Debug\netcoreapp2.1\4_Estrutura_For.csproj.CoreCompileInputs.cache
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019\Estudo\4_Estrutura_For\4_Estrutura_For\obj\Debug\netcoreapp2.1\4_Estrutura_For.AssemblyInfoInputs.cache
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019\Estudo\4_Estrutura_For\4_Estrutura_For\obj\Debug\netcoreapp2.1\4_Estrutura_For.AssemblyInfo.cs
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019\Estudo\4_Estrutura_For\4_Estrutura_For\obj\Debug\netcoreapp2.1\4_Estrutura_For.dll
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019\Estudo\4_Estrutura_For\4_Estrutura_For\obj\Debug\netcoreapp2.1\4_Estrutura_For.pdb

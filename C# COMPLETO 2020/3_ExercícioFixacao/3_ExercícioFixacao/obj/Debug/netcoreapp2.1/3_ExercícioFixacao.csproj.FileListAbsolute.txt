@@ -1,0 +1,11 @@
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019 Programação Orientada a Objetos + Projetos\Estudo\3_ExercícioFixacao\3_ExercícioFixacao\bin\Debug\netcoreapp2.1\3_ExercícioFixacao.deps.json
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019 Programação Orientada a Objetos + Projetos\Estudo\3_ExercícioFixacao\3_ExercícioFixacao\bin\Debug\netcoreapp2.1\3_ExercícioFixacao.runtimeconfig.json
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019 Programação Orientada a Objetos + Projetos\Estudo\3_ExercícioFixacao\3_ExercícioFixacao\bin\Debug\netcoreapp2.1\3_ExercícioFixacao.runtimeconfig.dev.json
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019 Programação Orientada a Objetos + Projetos\Estudo\3_ExercícioFixacao\3_ExercícioFixacao\bin\Debug\netcoreapp2.1\3_ExercícioFixacao.dll
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019 Programação Orientada a Objetos + Projetos\Estudo\3_ExercícioFixacao\3_ExercícioFixacao\bin\Debug\netcoreapp2.1\3_ExercícioFixacao.pdb
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019 Programação Orientada a Objetos + Projetos\Estudo\3_ExercícioFixacao\3_ExercícioFixacao\obj\Debug\netcoreapp2.1\3_ExercícioFixacao.csprojAssemblyReference.cache
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019 Programação Orientada a Objetos + Projetos\Estudo\3_ExercícioFixacao\3_ExercícioFixacao\obj\Debug\netcoreapp2.1\3_ExercícioFixacao.csproj.CoreCompileInputs.cache
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019 Programação Orientada a Objetos + Projetos\Estudo\3_ExercícioFixacao\3_ExercícioFixacao\obj\Debug\netcoreapp2.1\3_ExercícioFixacao.AssemblyInfoInputs.cache
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019 Programação Orientada a Objetos + Projetos\Estudo\3_ExercícioFixacao\3_ExercícioFixacao\obj\Debug\netcoreapp2.1\3_ExercícioFixacao.AssemblyInfo.cs
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019 Programação Orientada a Objetos + Projetos\Estudo\3_ExercícioFixacao\3_ExercícioFixacao\obj\Debug\netcoreapp2.1\3_ExercícioFixacao.dll
+C:\Users\eliez\OneDrive\Shared\Cursos\C# COMPLETO 2019 Programação Orientada a Objetos + Projetos\Estudo\3_ExercícioFixacao\3_ExercícioFixacao\obj\Debug\netcoreapp2.1\3_ExercícioFixacao.pdb
