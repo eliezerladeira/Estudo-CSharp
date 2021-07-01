@@ -18,13 +18,9 @@ namespace TabelaDePontos
             }
         }
 
-        static void RemoveTimes(int[] codigos, String[] nomes, int[] pontos, ref int tl)
+        static void RemoveTimes(int[] codigos, String[] nomes, int[] pontos, ref int tl, int cod)
         {
-            Console.WriteLine("----Remove time----");
-            Console.Write("Código do time: ");
-            
-            int cod = Convert.ToInt32(Console.ReadLine());
-            int p = LocalizaTimeCodigo(codigos, nomes, pontos, tl);
+            int p = LocalizaTimeCodigo(codigos, nomes, pontos, tl, cod);
 
             //p é a posição do time no vetot
             if (p >= 0)
@@ -40,14 +36,8 @@ namespace TabelaDePontos
             }
         }
 
-        static void InsereTimes(int[] codigos, String[] nomes, int[] pontos, ref int tl, ref int lastcod)
+        static void InsereTimes(int[] codigos, String[] nomes, int[] pontos, ref int tl, ref int lastcod, String nome, int ponto)
         {
-            Console.WriteLine("----Cadastro de time----");
-            Console.Write("Nome do time: ");
-            String nome = Console.ReadLine();
-            Console.Write("Pontos do time: ");
-            int ponto = Convert.ToInt32(Console.ReadLine());
-
             nomes[tl] = nome;
             pontos[tl] = ponto;
             lastcod++;
@@ -55,10 +45,8 @@ namespace TabelaDePontos
             tl++;
         }
 
-        static int LocalizaTimeCodigo(int[] codigos, String[] nomes, int[] pontos, int tl)
+        static int LocalizaTimeCodigo(int[] codigos, String[] nomes, int[] pontos, int tl, int cod)
         {
-            Console.Write("Informe o código do time: ");
-            int cod = Convert.ToInt32(Console.ReadLine());
             int i = 0;
             int r = -1;
 
@@ -99,18 +87,32 @@ namespace TabelaDePontos
             int[] codigos = new int[100];
             int[] pontos = new int[100];
             int tl = 0, lastcod = 0, op = 0;
+            String nome = "";
+            int ponto = 0;
 
             while (op != 100)
             {
                 op = ExibeMenu();
+                Console.Clear();
 
                 if (op == 1) // inserir
                 {
-                    InsereTimes(codigos, nomes, pontos, ref tl, ref lastcod);
+                    Console.WriteLine("----Cadastro de time----");
+                    Console.Write("Nome do time: ");
+                    nome = Console.ReadLine();
+                    Console.Write("Pontos do time: ");
+                    ponto = Convert.ToInt32(Console.ReadLine());
+
+                    InsereTimes(codigos, nomes, pontos, ref tl, ref lastcod, nome, ponto);
                 }
 
                 if (op == 2) // excluir
                 {
+                    Console.WriteLine("----Remove time----");
+                    Console.Write("Código do time: ");
+
+                    int cod = Convert.ToInt32(Console.ReadLine());
+                    RemoveTimes(codigos, nomes, pontos, ref tl, cod);
 
                 }
 
@@ -121,7 +123,12 @@ namespace TabelaDePontos
 
                 if (op == 4) // localizar
                 {
-                    int p = LocalizaTimeCodigo(codigos, nomes, pontos, tl);
+                    Console.Write("----Localiza Time----");
+                    Console.Write("Informe o código do time: ");
+
+                    int cod = Convert.ToInt32(Console.ReadLine());
+                    int p = LocalizaTimeCodigo(codigos, nomes, pontos, tl, cod);
+
                     if (p > 0) Console.WriteLine("O time está armazenado na posição " + p);
                     else Console.WriteLine("Time não encontrado!");
                 }
