@@ -1,0 +1,7 @@
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\Como Programar\Comparison\Comparison\bin\Debug\Comparison.exe.config
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\Como Programar\Comparison\Comparison\bin\Debug\Comparison.exe
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\Como Programar\Comparison\Comparison\bin\Debug\Comparison.pdb
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\Como Programar\Comparison\Comparison\obj\Debug\Comparison.csprojAssemblyReference.cache
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\Como Programar\Comparison\Comparison\obj\Debug\Comparison.csproj.CoreCompileInputs.cache
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\Como Programar\Comparison\Comparison\obj\Debug\Comparison.exe
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\Como Programar\Comparison\Comparison\obj\Debug\Comparison.pdb
