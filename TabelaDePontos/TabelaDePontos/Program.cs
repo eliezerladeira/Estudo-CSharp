@@ -36,6 +36,17 @@ namespace TabelaDePontos
             }
         }
 
+        static void AlteraTimes(int[] codigos, String[] nomes, int[] pontos, int tl, int cod, String nome, int ponto)
+        {
+            int p = LocalizaTimeCodigo(codigos, nomes, pontos, tl, cod);
+
+            if (p >= 0)
+            {
+                nomes[p] = nome;
+                pontos[p] = ponto;
+            }
+        }
+
         static void InsereTimes(int[] codigos, String[] nomes, int[] pontos, ref int tl, ref int lastcod, String nome, int ponto)
         {
             nomes[tl] = nome;
@@ -89,6 +100,7 @@ namespace TabelaDePontos
             int tl = 0, lastcod = 0, op = 0;
             String nome = "";
             int ponto = 0;
+            int cod;
 
             while (op != 100)
             {
@@ -111,14 +123,23 @@ namespace TabelaDePontos
                     Console.WriteLine("----Remove time----");
                     Console.Write("Código do time: ");
 
-                    int cod = Convert.ToInt32(Console.ReadLine());
+                    cod = Convert.ToInt32(Console.ReadLine());
                     RemoveTimes(codigos, nomes, pontos, ref tl, cod);
-
                 }
 
                 if (op == 3) // alterar
                 {
+                    Console.WriteLine("----Altera time----");
+                    Console.Write("Código do time: ");
+                    cod = Convert.ToInt32(Console.ReadLine());
 
+                    Console.Write("Nome do time: ");
+                    nome = Console.ReadLine();
+
+                    Console.Write("Pontos do time: ");
+                    ponto = Convert.ToInt32(Console.ReadLine());
+
+                    AlteraTimes(codigos, nomes, pontos, tl, cod, nome, ponto);
                 }
 
                 if (op == 4) // localizar
@@ -126,7 +147,7 @@ namespace TabelaDePontos
                     Console.Write("----Localiza Time----");
                     Console.Write("Informe o código do time: ");
 
-                    int cod = Convert.ToInt32(Console.ReadLine());
+                    cod = Convert.ToInt32(Console.ReadLine());
                     int p = LocalizaTimeCodigo(codigos, nomes, pontos, tl, cod);
 
                     if (p > 0) Console.WriteLine("O time está armazenado na posição " + p);
