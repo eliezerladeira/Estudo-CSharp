@@ -47,6 +47,16 @@ namespace TabelaDePontos
             }
         }
 
+        static void InserePontos(int[] codigos, String[] nomes, int[] pontos, int tl, int cod, int ponto)
+        {
+            int p = LocalizaTimeCodigo(codigos, nomes, pontos, tl, cod);
+
+            if (p >= 0)
+            {
+                pontos[p] = ponto;
+            }
+        }
+
         static void InsereTimes(int[] codigos, String[] nomes, int[] pontos, ref int tl, ref int lastcod, String nome, int ponto)
         {
             nomes[tl] = nome;
@@ -85,6 +95,10 @@ namespace TabelaDePontos
             Console.WriteLine("3 - Alterar Time");
             Console.WriteLine("4 - Localizar Time");
             Console.WriteLine("5 - Listar Times");
+            Console.WriteLine("6 - Inserir Pontos");
+            Console.WriteLine("7 - Menor Pontuação");
+            Console.WriteLine("8 - Maior Pontuação");
+            Console.WriteLine("9 - Classificar Times (Ordenar)");
             Console.WriteLine("100 - Sair");
 
             Console.Write("O que deseja fazer? ");
@@ -158,6 +172,34 @@ namespace TabelaDePontos
                 {
                     ListaTimes(codigos, nomes, pontos, tl);
                 }
+
+                if (op == 6) // insere pontos
+                {
+                    Console.WriteLine("----Inserir pontos----");
+                    Console.Write("Código do time: ");
+                    cod = Convert.ToInt32(Console.ReadLine());
+
+                    Console.Write("Nova pontuação: ");
+                    cod = Console.ReadLine();
+
+                    InserePontos(codigos, nomes, pontos, tl, cod, ponto);
+                }
+
+                if (op == 7) // menor pontuação
+                {
+
+                }
+
+                if (op == 8) // maior pontuação
+                {
+
+                }
+
+                if (op == 9) // ordena
+                {
+
+                }
+
                 Console.ReadKey();
             }
         }
