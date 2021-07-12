@@ -84,6 +84,28 @@ namespace TabelaDePontos
             return r;
         }
 
+        static int MenorPontuacao(int[] codigos, int[] pontos, int tl)
+        {
+            int cod = -1, menor = 0;
+
+            if (tl > 0)
+            {
+                cod = 0;
+                menor = pontos[0];
+            }
+
+            for (int i = 0; i < tl; i++)
+            {
+                if (menor > pontos[i])
+                {
+                    cod = i;
+                    menor = pontos[i];
+                }
+            }
+
+            return cod;
+        }
+
         static int ExibeMenu()
         {
             int op = 0;
@@ -114,7 +136,8 @@ namespace TabelaDePontos
             int tl = 0, lastcod = 0, op = 0;
             String nome = "";
             int ponto = 0;
-            int cod;
+            int cod = 0;
+            int p = 0;
 
             while (op != 100)
             {
@@ -162,7 +185,7 @@ namespace TabelaDePontos
                     Console.Write("Informe o código do time: ");
 
                     cod = Convert.ToInt32(Console.ReadLine());
-                    int p = LocalizaTimeCodigo(codigos, nomes, pontos, tl, cod);
+                    p = LocalizaTimeCodigo(codigos, nomes, pontos, tl, cod);
 
                     if (p > 0) Console.WriteLine("O time está armazenado na posição " + p);
                     else Console.WriteLine("Time não encontrado!");
@@ -180,14 +203,22 @@ namespace TabelaDePontos
                     cod = Convert.ToInt32(Console.ReadLine());
 
                     Console.Write("Nova pontuação: ");
-                    cod = Console.ReadLine();
+                    ponto = Convert.ToInt32(Console.ReadLine());
 
                     InserePontos(codigos, nomes, pontos, tl, cod, ponto);
                 }
 
                 if (op == 7) // menor pontuação
                 {
+                    Console.WriteLine("----Menor pontuação----");
+                    p = MenorPontuacao(codigos, pontos, tl);
 
+                    if (p >= 0)
+                    {
+                        Console.WriteLine("Código do Time: " + codigos[p]);
+                        Console.WriteLine("Nome do Time: " + nomes[p]);
+                        Console.WriteLine("Pontos do Time: " + pontos[p]);
+                    }
                 }
 
                 if (op == 8) // maior pontuação
