@@ -1,0 +1,6 @@
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\Como Programar\Exercises\Chapter3\3.7\bin\Debug\3.7.exe.config
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\Como Programar\Exercises\Chapter3\3.7\bin\Debug\3.7.exe
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\Como Programar\Exercises\Chapter3\3.7\bin\Debug\3.7.pdb
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\Como Programar\Exercises\Chapter3\3.7\obj\Debug\3.7.csproj.CoreCompileInputs.cache
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\Como Programar\Exercises\Chapter3\3.7\obj\Debug\3.7.exe
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\Como Programar\Exercises\Chapter3\3.7\obj\Debug\3.7.pdb

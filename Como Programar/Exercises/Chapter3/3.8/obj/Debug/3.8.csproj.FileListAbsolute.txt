@@ -1,0 +1,7 @@
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\Como Programar\Exercises\Chapter3\3.8\bin\Debug\3.8.exe.config
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\Como Programar\Exercises\Chapter3\3.8\bin\Debug\3.8.exe
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\Como Programar\Exercises\Chapter3\3.8\bin\Debug\3.8.pdb
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\Como Programar\Exercises\Chapter3\3.8\obj\Debug\3.8.csprojAssemblyReference.cache
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\Como Programar\Exercises\Chapter3\3.8\obj\Debug\3.8.csproj.CoreCompileInputs.cache
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\Como Programar\Exercises\Chapter3\3.8\obj\Debug\3.8.exe
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\Como Programar\Exercises\Chapter3\3.8\obj\Debug\3.8.pdb
