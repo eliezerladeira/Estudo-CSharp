@@ -106,6 +106,28 @@ namespace TabelaDePontos
             return cod;
         }
 
+        static int MaiorPontuacao(int[] codigos, int[] pontos, int tl)
+        {
+            int cod = -1, maior = 0;
+
+            if (tl > 0)
+            {
+                cod = 0;
+                maior  = pontos[0];
+            }
+
+            for (int i = 0; i < tl; i++)
+            {
+                if (maior < pontos[i])
+                {
+                    cod = i;
+                    maior = pontos[i];
+                }
+            }
+
+            return cod;
+        }
+
         static int ExibeMenu()
         {
             int op = 0;
@@ -223,7 +245,15 @@ namespace TabelaDePontos
 
                 if (op == 8) // maior pontuação
                 {
+                    Console.WriteLine("----Maior pontuação----");
+                    p = MaiorPontuacao(codigos, pontos, tl);
 
+                    if (p >= 0)
+                    {
+                        Console.WriteLine("Código do Time: " + codigos[p]);
+                        Console.WriteLine("Nome do Time: " + nomes[p]);
+                        Console.WriteLine("Pontos do Time: " + pontos[p]);
+                    }
                 }
 
                 if (op == 9) // ordena
