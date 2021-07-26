@@ -1,0 +1,33 @@
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\ERLDB\Projeto ERLDB\Projeto ERLDB\bin\Debug\Projeto ERLDB.exe.config
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\ERLDB\Projeto ERLDB\Projeto ERLDB\bin\Debug\Projeto ERLDB.exe
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\ERLDB\Projeto ERLDB\Projeto ERLDB\bin\Debug\Projeto ERLDB.pdb
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\ERLDB\Projeto ERLDB\Projeto ERLDB\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\ERLDB\Projeto ERLDB\Projeto ERLDB\bin\Debug\Google.Protobuf.dll
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\ERLDB\Projeto ERLDB\Projeto ERLDB\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\ERLDB\Projeto ERLDB\Projeto ERLDB\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\ERLDB\Projeto ERLDB\Projeto ERLDB\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\ERLDB\Projeto ERLDB\Projeto ERLDB\bin\Debug\MySql.Data.dll
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\ERLDB\Projeto ERLDB\Projeto ERLDB\bin\Debug\System.Buffers.dll
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\ERLDB\Projeto ERLDB\Projeto ERLDB\bin\Debug\System.Memory.dll
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\ERLDB\Projeto ERLDB\Projeto ERLDB\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\ERLDB\Projeto ERLDB\Projeto ERLDB\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\ERLDB\Projeto ERLDB\Projeto ERLDB\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\ERLDB\Projeto ERLDB\Projeto ERLDB\bin\Debug\Zstandard.Net.dll
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\ERLDB\Projeto ERLDB\Projeto ERLDB\bin\Debug\Google.Protobuf.pdb
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\ERLDB\Projeto ERLDB\Projeto ERLDB\bin\Debug\Google.Protobuf.xml
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\ERLDB\Projeto ERLDB\Projeto ERLDB\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\ERLDB\Projeto ERLDB\Projeto ERLDB\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\ERLDB\Projeto ERLDB\Projeto ERLDB\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\ERLDB\Projeto ERLDB\Projeto ERLDB\bin\Debug\MySql.Data.xml
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\ERLDB\Projeto ERLDB\Projeto ERLDB\bin\Debug\System.Buffers.xml
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\ERLDB\Projeto ERLDB\Projeto ERLDB\bin\Debug\System.Memory.xml
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\ERLDB\Projeto ERLDB\Projeto ERLDB\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\ERLDB\Projeto ERLDB\Projeto ERLDB\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\ERLDB\Projeto ERLDB\Projeto ERLDB\obj\Debug\Projeto ERLDB.csprojAssemblyReference.cache
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\ERLDB\Projeto ERLDB\Projeto ERLDB\obj\Debug\Projeto_ERLDB.Form1.resources
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\ERLDB\Projeto ERLDB\Projeto ERLDB\obj\Debug\Projeto_ERLDB.Properties.Resources.resources
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\ERLDB\Projeto ERLDB\Projeto ERLDB\obj\Debug\Projeto ERLDB.csproj.GenerateResource.cache
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\ERLDB\Projeto ERLDB\Projeto ERLDB\obj\Debug\Projeto ERLDB.csproj.CoreCompileInputs.cache
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\ERLDB\Projeto ERLDB\Projeto ERLDB\obj\Debug\Projeto ERLDB.csproj.CopyComplete
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\ERLDB\Projeto ERLDB\Projeto ERLDB\obj\Debug\Projeto ERLDB.exe
+C:\Users\eliez\OneDrive\Projetos\Estudo-CSharp\ERLDB\Projeto ERLDB\Projeto ERLDB\obj\Debug\Projeto ERLDB.pdb
